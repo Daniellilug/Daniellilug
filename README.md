@@ -14,4 +14,5 @@ Sou apaixonada por tecnologia :iphone:, trabalho na área como analista de negó
    <a href="https://www.instagram.com/danielli_souzaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
    <a href="https://www.linkedin.com/in/danielli-souza-lugnani-064161163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<center>[![Daniellilug stats](https://github-readme-stats.vercel.app/api?username=Daniellilug)](https://github.com/anuraghazra/github-readme-stats)</center>
+<h2>Status</h2>
+[![Daniellilug](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
