@@ -19,5 +19,4 @@ Sou apaixonada por tecnologia :iphone:, trabalho na área como analista de negó
 ![](https://komarev.com/ghpvc/?username=Daniellilug)
 <br>
 <br>
-:battery: Status:<br><br>
-[![Daniellilug](https://github-readme-stats.vercel.app/api?username=Daniellilug)](https://github.com/anuraghazra/github-readme-stats) 
+
