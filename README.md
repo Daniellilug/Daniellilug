@@ -19,5 +19,7 @@ Sou apaixonada por tecnologia :iphone:, trabalho na área como analista de negó
 ![](https://komarev.com/ghpvc/?username=Daniellilug)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniellilug)
+![Daniellilug](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniellilug)
+![Daniellilug](https://github-readme-stats.vercel.app/api?username=Daniellilug)
+
 
