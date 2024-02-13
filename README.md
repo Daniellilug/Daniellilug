@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielli-souza-lugnani-064161163/"><img src="https://media.licdn.com/dms/image/D4D16AQEw8jyvq7pIAQ/profile-displaybackgroundimage-shrink_350_1400/0/1706057458515?e=1713398400&v=beta&t=RVi--ejtzE1j3c0HbqGeO34zkziZdciYAFJHvv-A4ck" /></a>
 <br><br>
-:sparkles:Me chamo Danielli :sunflower:	, como vai conexões? Estou em fase de transição de carreira, neste momento estou estudando HTML e CSS para que possa entrar na linguagem do JavaSript e futuramente no Node.Js. 
+:sparkles:Me chamo Danielli:sunflower:, como vai conexões? Estou em fase de transição de carreira, neste momento estou estudando HTML e CSS para que possa entrar na linguagem do JavaSript e futuramente no Node.Js. 
 
 Sou apaixonada por tecnologia :iphone:, trabalho na área como analista de negócios e suporte de computadores:computer:, sou uma pessoa que procura estar atualizada, busco soluções com antecedência para que não aconteça problemas, procuro resolver de forma eficaz, sou proativa e não tenho dificuldades em trabalhar em grupo.:sparkles:
 
