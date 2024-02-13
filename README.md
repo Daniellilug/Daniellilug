@@ -15,9 +15,9 @@ Sou apaixonada por tecnologia :iphone:, trabalho na área como analista de negó
    <a href="https://www.linkedin.com/in/danielli-souza-lugnani-064161163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 <br>
-:eyes: Visitações: <br>
+:eyes: Visitações: <br><br>
 ![](https://komarev.com/ghpvc/?username=Daniellilug)
 <br>
 <br>
-:battery: Status:<br>
+:battery: Status:<br><br>
 [![Daniellilug](https://github-readme-stats.vercel.app/api?username=Daniellilug)](https://github.com/anuraghazra/github-readme-stats) 
